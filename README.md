@@ -12,6 +12,10 @@
 
 - Ricky Yeung, [GitHub](https://github.com/RickyYeungCoding), [LinkedIn](https://www.linkedin.com/in/ricky-yeungg/)
 
+## [Team Agreement](https://docs.google.com/document/d/1RPGCnGrP_vLHJc-a3qApJRwFOWvHZYm0mh__MHPm50g/edit#heading=h.8gk16jcral)
+
+## [System Selection](https://docs.google.com/document/d/1sAv-cWNuCnyHW1lVpHmL5cFta7ruWmzpcsVyasrInmY/edit?usp=sharing)
+
 ## SOPs & Policy Documentation
 
 - [Acceptable Use Agreement](https://drive.google.com/file/d/15U0wOAu2rf5wC0pxrHR0NNnWL_mw9vdl/view?usp=sharing)
