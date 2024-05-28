@@ -20,7 +20,7 @@
 
 - [Acceptable Use Agreement](https://drive.google.com/file/d/15U0wOAu2rf5wC0pxrHR0NNnWL_mw9vdl/view?usp=sharing)
 - [IAM Implementation](https://docs.google.com/document/d/1HiD3Xc4S-9gWUoH91N0uYaX_JUG2rPbyX1tFY7VqiSg/edit?usp=sharing)
-- (Server Hardening & Data Protection)
+- [Server Hardening & Data Protection](https://drive.google.com/file/d/15_oCVdlmQJc4kytkXljSc2Xly3x4d3JW/view)
 - (SIEM/Log AggregationSystem)
 - [Cloud Monitoring](https://docs.google.com/document/d/1r4F8VoC0wASm_f8DwPK0poocR8W-QAvCpPJdchNkKC8/edit?usp=sharing)
 
