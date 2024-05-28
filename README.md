@@ -19,7 +19,7 @@
 ## SOPs & Policy Documentation
 
 - [Acceptable Use Agreement](https://drive.google.com/file/d/15U0wOAu2rf5wC0pxrHR0NNnWL_mw9vdl/view?usp=sharing)
-- (IAM)
+- [IAM Implementation](https://docs.google.com/document/d/1HiD3Xc4S-9gWUoH91N0uYaX_JUG2rPbyX1tFY7VqiSg/edit?usp=sharing)
 - (Server Hardening & Data Protection)
 - (SIEM/Log AggregationSystem)
 - (Cloud Monitoring)
