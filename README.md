@@ -19,6 +19,10 @@
 ## SOPs & Policy Documentation
 
 - [Acceptable Use Agreement](https://drive.google.com/file/d/15U0wOAu2rf5wC0pxrHR0NNnWL_mw9vdl/view?usp=sharing)
+- (IAM)
+- (Server Hardening & Data Protection)
+- (SIEM/Log AggregationSystem)
+- (Cloud Monitoring)
 
 ## Project Managing Tool
 - [Trello](https://trello.com/b/QVKb3Mgv/ops401-midterm)
