@@ -22,7 +22,7 @@
 - [IAM Implementation](https://docs.google.com/document/d/1HiD3Xc4S-9gWUoH91N0uYaX_JUG2rPbyX1tFY7VqiSg/edit?usp=sharing)
 - (Server Hardening & Data Protection)
 - (SIEM/Log AggregationSystem)
-- (Cloud Monitoring)
+- [Cloud Monitoring](https://docs.google.com/document/d/1r4F8VoC0wASm_f8DwPK0poocR8W-QAvCpPJdchNkKC8/edit?usp=sharing)
 
 ## Project Managing Tool
 - [Trello](https://trello.com/b/QVKb3Mgv/ops401-midterm)
