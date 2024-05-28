@@ -24,6 +24,7 @@
 - [SIEM/Log AggregationSystem](https://docs.google.com/document/d/1GVDF-LIVodmPdSHH7LTvQAYBTVAyVWe2Y7Xbqu8Te_Y/edit?usp=sharing)
 - [Cloud Monitoring](https://docs.google.com/document/d/1r4F8VoC0wASm_f8DwPK0poocR8W-QAvCpPJdchNkKC8/edit?usp=sharing)
 - [Security Incident Plan](https://drive.google.com/file/d/1Ftcs67_H8crFLaoxknNqrU4qOdhOExab/view)
+- [Compliance Documentation](https://drive.google.com/file/d/1rEOq0eMffnXsO0TlZ7oG7DFmZbgW7_Vq/view)
 
 ## Project Managing Tool
 - [Trello](https://trello.com/b/QVKb3Mgv/ops401-midterm)
