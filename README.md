@@ -23,6 +23,7 @@
 - [Server Hardening & Data Protection](https://drive.google.com/file/d/15_oCVdlmQJc4kytkXljSc2Xly3x4d3JW/view)
 - (SIEM/Log AggregationSystem)
 - [Cloud Monitoring](https://docs.google.com/document/d/1r4F8VoC0wASm_f8DwPK0poocR8W-QAvCpPJdchNkKC8/edit?usp=sharing)
+- [Security Incident Plan](https://drive.google.com/file/d/1Ftcs67_H8crFLaoxknNqrU4qOdhOExab/view)
 
 ## Project Managing Tool
 - [Trello](https://trello.com/b/QVKb3Mgv/ops401-midterm)
