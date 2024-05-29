@@ -10,7 +10,6 @@
 
 - Ethan Pham, [GitHub](https://github.com/EthanPham03), [LinkedIn](https://www.linkedin.com/in/ethan-pham-8a9a622b3/)
 
-- Ricky Yeung, [GitHub](https://github.com/RickyYeungCoding), [LinkedIn](https://www.linkedin.com/in/ricky-yeungg/)
 
 ## [Team Agreement](https://docs.google.com/document/d/1RPGCnGrP_vLHJc-a3qApJRwFOWvHZYm0mh__MHPm50g/edit#heading=h.8gk16jcral)
 
