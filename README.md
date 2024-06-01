@@ -24,7 +24,7 @@
 - [IAM Implementation](https://docs.google.com/document/d/1HiD3Xc4S-9gWUoH91N0uYaX_JUG2rPbyX1tFY7VqiSg/edit?usp=sharing)
 - [Server Hardening & Data Protection](https://drive.google.com/file/d/1F5PP1_z-fDGBgAvP2x_B01dCzhBB8xV6/view)
 - [SIEM/Log AggregationSystem](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/SIEM_Log%20Aggregation%20System.pdf)
-- [Cloud Monitoring](file:///Users/ethanpham/Downloads/Cloud%20Monitoring.pdf)
+- [Cloud Monitoring](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Cloud%20Monitoring.pdf)
 - [Security Incident Plan](https://drive.google.com/file/d/1Ftcs67_H8crFLaoxknNqrU4qOdhOExab/view)
 - [Compliance Documentation](https://drive.google.com/file/d/1rEOq0eMffnXsO0TlZ7oG7DFmZbgW7_Vq/view)
 
