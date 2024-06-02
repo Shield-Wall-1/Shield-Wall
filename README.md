@@ -21,7 +21,7 @@
 ## SOPs & Policy Documentation
 
 - [Acceptable Use Agreement](https://drive.google.com/file/d/15U0wOAu2rf5wC0pxrHR0NNnWL_mw9vdl/view?usp=sharing)
-- [IAM Implementation](https://docs.google.com/document/d/1HiD3Xc4S-9gWUoH91N0uYaX_JUG2rPbyX1tFY7VqiSg/edit?usp=sharing)
+- [IAM Implementation](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/IAM%20Implementation.pdf)
 - [Server Hardening & Data Protection](https://drive.google.com/file/d/1F5PP1_z-fDGBgAvP2x_B01dCzhBB8xV6/view)
 - [SIEM/Log AggregationSystem](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/SIEM_Log%20Aggregation%20System.pdf)
 - [Cloud Monitoring](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Cloud%20Monitoring.pdf)
@@ -30,6 +30,9 @@
 
 ## Project Managing Tool
 - [Trello](https://trello.com/b/QVKb3Mgv/ops401-midterm)
+
+## SSH script
+- [Brut Force attack](https://github.com/bjbaack/Ops-401-CodeChallenge/blob/main/Challenge18.py)
 
 ## Presentation
 - [Presentation Link](https://docs.google.com/presentation/d/1mahVzh5gF_8UtoF4qOsm_b4SKZAxmqa9qrwNVYzp97o/edit?usp=sharing) 
