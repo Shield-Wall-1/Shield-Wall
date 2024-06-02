@@ -11,9 +11,9 @@
 - Ethan Pham, [GitHub](https://github.com/EthanPham03), [LinkedIn](https://www.linkedin.com/in/ethan-pham-8a9a622b3/)
 
 
-## [Team Agreement](https://docs.google.com/document/d/1RPGCnGrP_vLHJc-a3qApJRwFOWvHZYm0mh__MHPm50g/edit#heading=h.8gk16jcral)
+## [Team Agreement](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/ops-401d12%20Team1_Team%20Agreement.pdf)
 
-## [System Selection](https://docs.google.com/document/d/1sAv-cWNuCnyHW1lVpHmL5cFta7ruWmzpcsVyasrInmY/edit?usp=sharing)
+## [System Selection](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Ops401%20System%20Selection-2.pdf)
 
 ## Topology & Diagrams
 [Server Hardening & Data Protection](https://drive.google.com/file/d/1XhJxp91qqvp-A3vm0ItzqsRUeVUQMF18/view?usp=sharing)
