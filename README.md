@@ -2,6 +2,9 @@
 
 # ShieldWall IT
 
+## Project Overview
+Shield Wall IT is on board with Valhalla Systems to build and secure their cloud infrastructure. As Valhalla grows from a small startup, they need a cloud setup that’s flexible enough for scaling and remote work. Our job is to make sure their cloud environment is rock-solid and secure, with log aggregation (SIEM) in place and fully CIS compliant. Plus, we’ll show how the system holds up under attack to prove its strength.
+
 ## Team Members
 
 - Bradley Baack, [GitHub](https://github.com/bjbaack), [LinkedIn](https://www.linkedin.com/in/bradleybaack/)
@@ -34,8 +37,8 @@
 ## SSH script
 - [Brut Force attack](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/bruteforce.sh)
 
-## [Lambda]
-(https://github.com/Shield-Wall-1/Shield-Wall/blob/main/lambda.py)
+## Lambda Funciton
+[Script](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/lambda.py)
 
 
 ## Presentation
