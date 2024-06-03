@@ -21,6 +21,9 @@ Shield Wall IT is on board with Valhalla Systems to build and secure their cloud
 ## Topology & Diagrams
 [Server Hardening & Data Protection](https://drive.google.com/file/d/1XhJxp91qqvp-A3vm0ItzqsRUeVUQMF18/view?usp=sharing)
 
+## Cloud Infrastructure
+[Cloud Infrastrucure](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Cloud%20Infrastructure.pdf)
+
 ## SOPs & Policy Documentation
 
 - [Acceptable Use Agreement](https://drive.google.com/file/d/15U0wOAu2rf5wC0pxrHR0NNnWL_mw9vdl/view?usp=sharing)
