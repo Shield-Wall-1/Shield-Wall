@@ -19,19 +19,19 @@ Shield Wall IT is on board with Valhalla Systems to build and secure their cloud
 ## [System Selection](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Ops401%20System%20Selection-2.pdf)
 
 ## Topology & Diagrams
-[Server Hardening & Data Protection](https://drive.google.com/file/d/1XhJxp91qqvp-A3vm0ItzqsRUeVUQMF18/view?usp=sharing)
+[Server Hardening & Data Protection](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Server%20Hardening%20%26%20Data%20Protection.jpg)
 
 ## Cloud Infrastructure
 [Cloud Infrastrucure](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Cloud%20Infrastructure.pdf)
 
 ## SOPs & Policy Documentation
 
-- [Acceptable Use Agreement](https://drive.google.com/file/d/15U0wOAu2rf5wC0pxrHR0NNnWL_mw9vdl/view?usp=sharing)
+- [Acceptable Use Agreement](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Acceptable%20Use%20Agreement.pdf)
 - [IAM Implementation](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/IAM%20Implementation.pdf)
-- [Server Hardening & Data Protection](https://drive.google.com/file/d/1F5PP1_z-fDGBgAvP2x_B01dCzhBB8xV6/view)
+- [Server Hardening & Data Protection](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Server%20Hardening%20and%20Data%20Protection.pdf)
 - [SIEM/Log AggregationSystem](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/SIEM_Log%20Aggregation%20System.pdf)
 - [Cloud Monitoring](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Cloud%20Monitoring.pdf)
-- [Security Incident Plan](https://drive.google.com/file/d/1Ftcs67_H8crFLaoxknNqrU4qOdhOExab/view)
+- [Security Incident Plan]([https://drive.google.com/file/d/1Ftcs67_H8crFLaoxknNqrU4qOdhOExab/view](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Security%20Incident%20Plan.pdf))
 - [Compliance Documentation](https://drive.google.com/file/d/1rEOq0eMffnXsO0TlZ7oG7DFmZbgW7_Vq/view)
 
 ## Project Managing Tool
