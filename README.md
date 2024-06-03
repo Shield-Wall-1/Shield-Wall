@@ -38,7 +38,7 @@ Shield Wall IT is on board with Valhalla Systems to build and secure their cloud
 - [Brut Force attack](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/bruteforce.sh)
 
 ## Lambda Funciton
-[Script](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/lambda.py)
+- [Script](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/lambda.py)
 
 
 ## Presentation
