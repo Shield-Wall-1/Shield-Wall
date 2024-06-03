@@ -32,7 +32,7 @@
 - [Trello](https://trello.com/b/QVKb3Mgv/ops401-midterm)
 
 ## SSH script
-- [Brut Force attack](https://github.com/bjbaack/Ops-401-CodeChallenge/blob/main/Challenge18.py)
+- [Brut Force attack](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/bruteforce.sh)
 
 ## Presentation
-- [Presentation Link](https://docs.google.com/presentation/d/1mahVzh5gF_8UtoF4qOsm_b4SKZAxmqa9qrwNVYzp97o/edit?usp=sharing) 
+- [Presentation Link](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/ShieldWall%20IT.pdf) 
