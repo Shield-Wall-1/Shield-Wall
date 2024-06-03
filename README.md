@@ -32,7 +32,7 @@ Shield Wall IT is on board with Valhalla Systems to build and secure their cloud
 - [SIEM/Log AggregationSystem](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/SIEM_Log%20Aggregation%20System.pdf)
 - [Cloud Monitoring](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Cloud%20Monitoring.pdf)
 - [Security Incident Plan](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Security%20Incident%20Plan.pdf)
-- [Compliance Documentation](https://drive.google.com/file/d/1rEOq0eMffnXsO0TlZ7oG7DFmZbgW7_Vq/view)
+- [Compliance Documentation](https://github.com/Shield-Wall-1/Shield-Wall/blob/main/Compliance%20Documentation.pdf)
 
 ## Project Managing Tool
 - [Trello](https://trello.com/b/QVKb3Mgv/ops401-midterm)
